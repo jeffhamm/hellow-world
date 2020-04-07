@@ -1,2 +1,3 @@
 # hellow-world
-my first git project
+
+i think it is important to use lists
